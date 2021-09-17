@@ -10,3 +10,6 @@ TB*.svg
 
 # editor files
 *.swp
+
+# need some jsons though
+!package.json
