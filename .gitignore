@@ -1,0 +1,12 @@
+# generated files
+*.stl
+*.gcode
+
+# config files that may have tracking codes
+*.json
+
+# images that may have tracking codes
+TB*.svg
+
+# editor files
+*.swp
